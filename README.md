@@ -1,4 +1,4 @@
-<img src="./img/Banner2.png">
+<img width="550px" height="250px" src="./img/Banner2.png">
 <!-- Sim, eu sei. Esse foi o pior banner que alguém já fez kk -->
 
 ##
