@@ -1,19 +1,23 @@
 <h1 align="center">Bem vindo ao meu perfil!</h1>
-<h2> Sobre mim </h2>
 
-Meu nome é Andrey Viccari, e atualmente tenho 18 anos de idade. Atualmente curso o ensino médio e técnico de Programação de Jogos Digitais em uma ETEC. <br>
+## Sobre mim
 
-Nesse curso aprendi C#, GameMaker Studio 2, FrontEnd, e outras coisas. <br>
+Meu nome é Andrey Viccari, e tenho 18 anos de idade. Atualmente estou cursando Técnico em Desenvolvimento de Sistema em uma ETEC.  
+Também já fiz Programação de Jogos Digitais nessa mesma ETEC.  
 
-Já comecei a fazer cursos de Python e Java para Android (Android Studio) através do Youtube e da Udemy, mas atualmente tenho interesse principalmente no framework Django.
+Linguagens que eu sei:
+- C#
+- Python e frameworks como Django
+- HTML, CSS, JS, Bootstrap/Tailwind.
+- Atualmente estrou aprendendo React
 
-<h2> Sobre meu Github </h2>
-Não planejo disponibilizar repositórios públicos tão cedo nesta conta. Essa conta será usada principalmente para repositórios privados.
+## Sobre meu Github
+Planejo utilizar este Github como um portifólio para conseguir meu primeiro emprego na área.  
 
-<h2> Contatos </h2>
-Meu email: viccariandrey@gmail.com <br>
-Linkedin: <a href="https://www.linkedin.com/in/andrey-viccari-3a2356290">Conta</a> <br>
+## Contatos
+Meu email: viccariandrey@gmail.com  
+Linkedin: <a href="https://www.linkedin.com/in/andrey-viccari-3a2356290">Conta</a>  
 
 #
 
-<h6> Observação: Criação e administração de perfil (como você pode ver) não é o meu forte, peço desculpas pela simplicidade do meu perfil. </h6>
+###### Observação: Peço desculpas pela simplicidade do meu perfil.
